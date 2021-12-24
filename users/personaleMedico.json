@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "personaleMedico",
+	"password": "PersonaleMedico1.",
+	"port": 3306,
+	"database": "prenotazioneASL"
+}
+

@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "personaleCUP",
+	"password": "PersonaleCUP1.",
+	"port": 3306,
+	"database": "prenotazioneASL"
+}
+
